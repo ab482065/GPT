@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-openai.api_key = os.getenv('OPEN_AI_KEY')
+openai.api_key = os.getenv('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')
 
 # inp = input('Write your message: \n')
 
